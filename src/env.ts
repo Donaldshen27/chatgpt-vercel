@@ -18,7 +18,7 @@ export const defaultEnv = {
     continuousDialogue: true,
     model: "gpt-3.5" as SimpleModel
   },
-  CLIENT_DEFAULT_MESSAGE: `DONALD S GPT助手 Powered by OpenAI Vercel
+  CLIENT_DEFAULT_MESSAGE: `US本安 GPT助手 Powered by OpenAI Vercel
 - 当您使用这个应用时，请务必高效地表达您的需求或问题。每次您输入一个句子，都会产生一定的费用。因此，建议您在提交查询前仔细考虑，并尽量用简洁明了的语言描述您的需求。这样不仅可以节省成本，还能更快地获得您所需的信息。谢谢您的合作！:)
 - 现在支持多个对话，打开对话设置，点击新建对话。在输入框里输入 [[/]][[/]] 或者 [[空格]][[空格]] 可以切换对话，搜索历史消息。
 - [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。
