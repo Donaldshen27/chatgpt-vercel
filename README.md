@@ -1,5 +1,12 @@
 # ChatGPT-Vercel
 
+![](assets/preview-light.png#gh-light-mode-only)
+![](assets/preview-dark.png#gh-dark-mode-only)
+
+
+
+https://user-images.githubusercontent.com/48356807/232432194-46ba797f-ad9d-476a-a739-20e0b3d63eb2.mp4
+
 
 
 > 本项目基于 [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 开发。正式版本（v1.0.0）使用 Solid-Start 框架，并且不再开启 SSR。请重新设置环境变量。
