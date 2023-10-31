@@ -28,7 +28,7 @@ export const defaultEnv = {
     "gpt-4": 32 * 1000
   } as Record<SimpleModel, number>,
   OPENAI_API_BASE_URL: "api.openai.com",
-  OPENAI_API_KEY: "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",
+  OPENAI_API_KEY: "",
   TIMEOUT: 30000,
   PASSWORD: "",
   SEND_KEY: "",
